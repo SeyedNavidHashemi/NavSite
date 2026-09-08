@@ -1,5 +1,27 @@
-baseURL = "https://SeyedNavidHashemi.github.io/NavSite/"
-locale = 'en-us'
-title = 'My New Hugo Project'
+baseURL = "https://seyednavidhashemi.github.io/NavSite/"
+languageCode = "fa"
+title = "Naid Hashemi Weblog"
 theme = "PaperMod"
 
+[params]
+  defaultTheme = "auto"
+  ShowReadingTime = true
+  ShowCodeCopyButtons = true
+  ShowToc = true
+
+[params.profileMode]
+  enabled = true
+  title = "Hola! I'm Navid Hashemi 👋"
+"Computer Engineering Student | Interested in Building and Learning."
+
+[[params.socialIcons]]
+  name = "github"
+  url = "https://github.com/SeyedNavidHashemi"
+
+[[params.socialIcons]]
+  name = "email"
+  url = "mailto:navide.hashemi1383@gmail.com" 
+
+[[params.socialIcons]]
+  name = "linkedin"
+  url = "https://www.linkedin.com/in/seyed-navid-hashemi-485485395"
