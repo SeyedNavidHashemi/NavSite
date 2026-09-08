@@ -1,6 +1,6 @@
 baseURL = "https://seyednavidhashemi.github.io/NavSite/"
 languageCode = "fa"
-title = "Naid Hashemi Weblog"
+title = "Navid Hashemi Weblog"
 theme = "PaperMod"
 
 [params]
@@ -13,6 +13,10 @@ theme = "PaperMod"
   enabled = true
   title = "Hola! I'm Navid Hashemi 👋"
   subtitle = "Computer Engineering Student | Interested in Building and Learning."
+
+  imageUrl = ""C:\Users\USER\Downloads\portrait.jpg"" 
+  imageWidth = 120
+  imageHeight = 120
 
 [[params.socialIcons]]
   name = "github"
