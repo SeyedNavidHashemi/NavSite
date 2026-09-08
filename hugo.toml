@@ -1,0 +1,5 @@
+baseURL = "https://SeyedNavidHashemi.github.io/NavSite/"'
+locale = 'en-us'
+title = 'My New Hugo Project'
+theme = "PaperMod"
+
