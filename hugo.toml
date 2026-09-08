@@ -12,7 +12,7 @@ theme = "PaperMod"
 [params.profileMode]
   enabled = true
   title = "Hola! I'm Navid Hashemi 👋"
-"Computer Engineering Student | Interested in Building and Learning."
+  subtitle = "Computer Engineering Student | Interested in Building and Learning."
 
 [[params.socialIcons]]
   name = "github"
