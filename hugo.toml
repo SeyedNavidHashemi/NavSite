@@ -1,5 +1,5 @@
 baseURL = "https://seyednavidhashemi.github.io/NavSite/"
-languageCode = "fa"
+languageCode = "en"
 title = "Navid Hashemi Weblog"
 theme = "PaperMod"
 
@@ -25,3 +25,29 @@ theme = "PaperMod"
 [[params.socialIcons]]
   name = "linkedin"
   url = "https://www.linkedin.com/in/seyed-navid-hashemi-485485395"
+
+
+# settting for menu
+[[menu.main]]
+  identifier = "posts"
+  name = "Daily Notes"
+  url = "/posts/"
+  weight = 10
+
+[[menu.main]]
+  identifier = "projects"
+  name = "Projects"
+  url = "/projects/"
+  weight = 20
+
+[[menu.main]]
+  identifier = "til"
+  name = "TIL"
+  url = "/til/"
+  weight = 30
+
+[[menu.main]]
+  identifier = "tags"
+  name = "Tags"
+  url = "/tags/"
+  weight = 40
