@@ -1,17 +1,18 @@
 baseURL = "https://seyednavidhashemi.github.io/NavSite/"
 languageCode = "en"
-title = "Navid Hashemi | Portfolio"
+title = "Navid Hashemi"
 theme = "blowfish"
 
+# منوهای بالای سایت
 [[menu.main]]
   identifier = "posts"
-  name = "Daily Notes"
+  name = "Thoughts" # اسامی را کمی هنری‌تر کردیم
   url = "/posts/"
   weight = 10
 
 [[menu.main]]
   identifier = "projects"
-  name = "Projects"
+  name = "Showcase"
   url = "/projects/"
   weight = 20
 
@@ -22,31 +23,31 @@ theme = "blowfish"
   weight = 30
 
 [params]
-  defaultAppearance = "dark" 
-  colorScheme = "blowfish"
-  
+  defaultAppearance = "dark" # تاریکِ مطلق
+  colorScheme = "neon" 
+
   [params.header]
     layout = "fixed" 
 
   [params.homepage]
-    layout = "profile" 
-    showRecent = true # 
+    layout = "hero" # تغییر از پروفایل ساده به نمای سینمایی (Hero)
+    showRecent = true
+    cardView = true # نمایش تمام مطالب به صورت کارت‌های سه‌بعدی
+
+  [params.ui]
+    blur = true # جادوی اصلی: فعال‌سازی افکت شیشه‌ای (Glassmorphism)
+    scrollspy = true
 
   [params.article]
     showReadingTime = true
-    showViews = false
-    showWordCount = false
+    showViews = true
 
   [params.author]
-    name = "Navid Hashemi"
-    image = "https://github.com/SeyedNavidHashemi.png" 
-    headline = "Computer Engineering Student | Deep Learning & Systems Architecture"
-    
+    name = "Navid"
+    image = "https://github.com/SeyedNavidHashemi.png"
+    headline = "Building things for the web and beyond."
     links = [
       { github = "https://github.com/SeyedNavidHashemi" },
-      { email = "mailto:navide.hashemi1383.com" },
-      { linkedin = "https://www.linkedin.com/in/seyed-navid-hashemi-485485395" }
+      { email = "mailto:navid.hashemi@ut.ac.ir" },
+      { linkedin = "https://linkedin.com/in/seyed-navid-hashemi-485485395" }
     ]
-
-[markup.goldmark.renderer]
-  unsafe = true
