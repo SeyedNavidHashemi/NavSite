@@ -5,8 +5,8 @@ draft: false
 description: "Barça open their 2026/27 Champions League campaign against Feyenoord at Camp Nou. Full stats breakdown, form guide, and our score prediction."
 tags: ["Barcelona", "Feyenoord", "Champions League", "Predictions", "La Liga"]
 categories: ["Match Previews"]
-featured_image: "images/posts/puppet-football-stadium.jpg"
-images: ["images/posts/puppet-football-stadium.jpg"]
+featured_image: "/NavSite/images/posts/puppet-football-stadium.jpg"
+images: ["/NavSite/images/posts/puppet-football-stadium.jpg"]
 ---
 
 <div style="display:flex; align-items:center; justify-content:center; gap:2.5rem; margin: 1.5rem 0 2rem;">
@@ -23,7 +23,7 @@ images: ["images/posts/puppet-football-stadium.jpg"]
 
 ## Opening Night of the New League Phase
 
-Barcelona kick off their **2026/27 UEFA Champions League** campaign tonight against Dutch side **Feyenoord**, in what marks Matchday 1 of the competition's league phase. Hansi Flick's side return to Camp Nou riding a wave of red-hot domestic form, while Feyenoord travel to Catalonia unbeaten in over a month.
+Barcelona kick off their **2026/27 UEFA Champions League** campaign tonight against Dutch side **Feyenoord**, in what marks Matchday 1 of the competition's league phase for Barcelona. Hansi Flick's side return to Camp Nou riding a wave of red-hot domestic form, while Feyenoord travel to Catalonia unbeaten in over a month.
 
 Here's the full statistical breakdown — and our final score prediction.
 
