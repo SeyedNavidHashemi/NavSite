@@ -71,12 +71,11 @@ Bookmakers have installed Barcelona as **overwhelming favorites**, with a home w
 
 ## 🔮 Final Prediction
 
-<div style="background:#f5f5f5; border-left:5px solid #a50044; padding:1.2rem 1.5rem; border-radius:6px; margin:1.5rem 0;">
-<strong>Barcelona 3 - 1 Feyenoord</strong>
-<p style="margin-top:0.5rem; margin-bottom:0;">Barça's attack is simply too sharp right now for a Feyenoord side missing several defenders. Expect goals from the front three, with Raphinha and Yamal leading the charge. Feyenoord's strong away form should be enough for a consolation goal, but not to trouble Flick's side over 90 minutes.</p>
-</div>
+{{< alert icon="chart-line" >}}
+**Barcelona 3 - 1 Feyenoord**
 
-*Predictions are based on current form and statistics, not certainties — European opening nights have a habit of producing surprises. Stay tuned for the live result!*
+Barça's attack is simply too sharp right now for a Feyenoord side missing several defenders. Expect goals from the front three, with Raphinha and Yamal leading the charge. Feyenoord's strong away form should be enough for a consolation goal, but not to trouble Flick's side over 90 minutes.
+{{< /alert >}}
 
 ---
 
