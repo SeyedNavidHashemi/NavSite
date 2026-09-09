@@ -1,33 +1,8 @@
 baseURL = "https://seyednavidhashemi.github.io/NavSite/"
 languageCode = "en"
-title = "Navid Hashemi Weblog"
-theme = "PaperMod"
+title = "Navid Hashemi | Portfolio"
+theme = "blowfish"
 
-[params]
-  defaultTheme = "auto"
-  ShowReadingTime = true
-  ShowCodeCopyButtons = true
-  ShowToc = true
-
-[params.profileMode]
-  enabled = true
-  title = "Hola! I'm Navid Hashemi 👋"
-  subtitle = "Computer Engineering Student | Interested in Building and Learning."
-
-[[params.socialIcons]]
-  name = "github"
-  url = "https://github.com/SeyedNavidHashemi"
-
-[[params.socialIcons]]
-  name = "email"
-  url = "mailto:navide.hashemi1383@gmail.com" 
-
-[[params.socialIcons]]
-  name = "linkedin"
-  url = "https://www.linkedin.com/in/seyed-navid-hashemi-485485395"
-
-
-# settting for menu
 [[menu.main]]
   identifier = "posts"
   name = "Daily Notes"
@@ -46,8 +21,29 @@ theme = "PaperMod"
   url = "/til/"
   weight = 30
 
-[[menu.main]]
-  identifier = "tags"
-  name = "Tags"
-  url = "/tags/"
-  weight = 40
+[params]
+  defaultAppearance = "dark" 
+  colorScheme = "blowfish"
+  
+  [params.header]
+    layout = "fixed" 
+
+  [params.homepage]
+    layout = "profile" 
+    showRecent = true # 
+
+  [params.article]
+    showReadingTime = true
+    showViews = false
+    showWordCount = false
+
+  [params.author]
+    name = "Navid Hashemi"
+    image = "https://github.com/SeyedNavidHashemi.png" 
+    headline = "Computer Engineering Student | Deep Learning & Systems Architecture"
+    
+    links = [
+      { github = "https://github.com/SeyedNavidHashemi" },
+      { email = "mailto:navide.hashemi1383.com" },
+      { linkedin = "https://www.linkedin.com/in/seyed-navid-hashemi-485485395" }
+    ]
