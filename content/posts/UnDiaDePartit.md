@@ -5,8 +5,8 @@ draft: false
 description: "Barça open their 2026/27 Champions League campaign against Feyenoord at Camp Nou. Full stats breakdown, form guide, and our score prediction."
 tags: ["Barcelona", "Feyenoord", "Champions League", "Predictions", "La Liga"]
 categories: ["Match Previews"]
-featured_image: "/images/posts/barcelona-feyenoord-cover.jpg"
-images: ["/images/posts/barcelona-feyenoord-cover.jpg"]
+featured_image: "/images/posts/puppet-football-stadium.jpg"
+images: ["/images/posts/puppet-football-stadium.jpg"]
 ---
 
 <div style="display:flex; align-items:center; justify-content:center; gap:2.5rem; margin: 1.5rem 0 2rem;">
