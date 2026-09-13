@@ -3,10 +3,9 @@ languageCode = "en"
 title = "Navid Hashemi"
 theme = "blowfish"
 
-# منوهای بالای سایت
 [[menu.main]]
   identifier = "posts"
-  name = "Thoughts" # اسامی را کمی هنری‌تر کردیم
+  name = "Thoughts" 
   url = "/posts/"
   weight = 10
 
@@ -29,19 +28,19 @@ theme = "blowfish"
   weight = 40
   
 [params]
-  defaultAppearance = "dark" # تاریکِ مطلق
+  defaultAppearance = "dark" 
   colorScheme = "neon" 
 
   [params.header]
     layout = "fixed" 
 
   [params.homepage]
-    layout = "hero" # تغییر از پروفایل ساده به نمای سینمایی (Hero)
+    layout = "hero" 
     showRecent = true
-    cardView = true # نمایش تمام مطالب به صورت کارت‌های سه‌بعدی
+    cardView = true  
 
   [params.ui]
-    blur = true # جادوی اصلی: فعال‌سازی افکت شیشه‌ای (Glassmorphism)
+    blur = true 
     scrollspy = true
 
   [params.article]
