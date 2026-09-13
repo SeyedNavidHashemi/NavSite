@@ -22,6 +22,12 @@ theme = "blowfish"
   url = "/til/"
   weight = 30
 
+[[menu.main]]
+  identifier = "resume"
+  name = "Resume"
+  url = "/docs/resume.pdf"
+  weight = 40
+  
 [params]
   defaultAppearance = "dark" # تاریکِ مطلق
   colorScheme = "neon" 
@@ -50,4 +56,5 @@ theme = "blowfish"
       { github = "https://github.com/SeyedNavidHashemi" },
       { email = "mailto:navid.hashemi@ut.ac.ir" },
       { linkedin = "https://linkedin.com/in/seyed-navid-hashemi-485485395" }
+      { "file-pdf" = "/docs/resume.pdf" }
     ]
