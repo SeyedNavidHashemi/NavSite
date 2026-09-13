@@ -54,6 +54,6 @@ theme = "blowfish"
     links = [
       { github = "https://github.com/SeyedNavidHashemi" },
       { email = "mailto:navid.hashemi@ut.ac.ir" },
-      { linkedin = "https://linkedin.com/in/seyed-navid-hashemi-485485395" }
+      { linkedin = "https://linkedin.com/in/seyed-navid-hashemi-485485395" },
       { "file-pdf" = "/docs/resume.pdf" }
     ]
