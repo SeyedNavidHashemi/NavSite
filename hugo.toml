@@ -48,7 +48,7 @@ theme = "blowfish"
     showViews = true
 
   [params.author]
-    name = "Navid"
+    name = "Navid Hashemi"
     image = "https://github.com/SeyedNavidHashemi.png"
     headline = ""Computer Engineering undergrad | Exploring LLMs, Deep Generative Models, Computer Vision""
     links = [
