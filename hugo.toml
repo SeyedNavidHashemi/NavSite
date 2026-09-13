@@ -50,7 +50,7 @@ theme = "blowfish"
   [params.author]
     name = "Navid Hashemi"
     image = "https://github.com/SeyedNavidHashemi.png"
-    headline = "Computer Engineering undergrad | Exploring LLMs, Deep Generative Models, Computer Vision""
+    headline = "Computer Engineering undergrad | Exploring LLMs, Deep Generative Models, Computer Vision"
     links = [
       { github = "https://github.com/SeyedNavidHashemi" },
       { email = "mailto:navid.hashemi@ut.ac.ir" },
