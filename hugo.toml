@@ -29,7 +29,7 @@ theme = "blowfish"
   
 [params]
   defaultAppearance = "dark" 
-  colorScheme = "neon" 
+  colorScheme = "ocean" 
 
   [params.header]
     layout = "fixed" 
@@ -50,7 +50,7 @@ theme = "blowfish"
   [params.author]
     name = "Navid"
     image = "https://github.com/SeyedNavidHashemi.png"
-    headline = "Building things for the web and beyond."
+    headline = ""Computer Engineering undergrad | Exploring LLMs, Deep Generative Models, Computer Vision""
     links = [
       { github = "https://github.com/SeyedNavidHashemi" },
       { email = "mailto:navid.hashemi@ut.ac.ir" },
