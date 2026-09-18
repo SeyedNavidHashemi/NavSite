@@ -57,3 +57,8 @@ theme = "blowfish"
       { linkedin = "https://linkedin.com/in/seyed-navid-hashemi-485485395" },
       { "file-pdf" = "/docs/resume.pdf" }
     ]
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
