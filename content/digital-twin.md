@@ -7,7 +7,6 @@ showDate: false
 showReadingTime: false
 showWordCount: false
 showTableOfContents: false
-fullWidth: true
 menu:
   main:
     name: "Digital Twin"
@@ -15,19 +14,12 @@ menu:
 ---
 
 <style>
-  header.article-header, .article-header, article > header, .mb-12 {
+  header.article-header {
     display: none !important;
-  }
-  
-  main, article, div.max-w-prose, div.max-w-3xl, div.max-w-7xl, .max-w-full {
-    max-width: 100% !important;
-    width: 100% !important;
-    padding: 0 !important;
-    margin: 0 auto !important;
   }
 </style>
 
-<div style="width: 100%; max-width: 1100px; margin: 0 auto; height: 82vh; padding: 10px 0;">
+<div style="position: relative; width: 92vw; max-width: 1200px; left: 50%; transform: translateX(-50%); height: 82vh; margin-top: 10px;">
     <iframe 
         src="https://digital-twin-jodb.onrender.com" 
         width="100%" 
