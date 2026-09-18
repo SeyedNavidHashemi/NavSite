@@ -1,6 +1,11 @@
+
 ---
-title: "Navid's Digital Twin"
-layout: "simple"
+title: "Digital Twin"
+draft: false
+date: 2026-01-01
+menu:
+  main:
+    weight: 30
 ---
 
 <div style="width: 100%; max-width: 950px; margin: 0 auto; padding: 10px 0;">
