@@ -26,6 +26,11 @@ theme = "blowfish"
   name = "Resume"
   url = "/docs/resume.pdf"
   weight = 40
+
+[[main]]
+  name = "Digital Twin"
+  url = "/chat/"     
+  weight = 30
   
 [params]
   defaultAppearance = "dark" 
