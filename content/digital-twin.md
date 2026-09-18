@@ -52,9 +52,11 @@ menu:
     width: 100vw !important;
     max-width: 100vw !important;
 
-    margin-left: calc(50% - 50vw) !important;
-    margin-right: 0 !important;
+    position: relative !important;
+    left: 50% !important;
+    transform: translateX(-50%) !important;
 
+    margin: 0 !important;
     padding: 0 !important;
 
     height: calc(100vh - 64px);
